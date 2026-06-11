@@ -9,6 +9,10 @@ website:
     left: 
       - href: index.qmd
         text: Home
+      - href: https://pnmlib.poromics.org
+        text: pnmlib
+      - href: https://www.github.com/PMEAL/kabs
+        text: kabs
       - blog.qmd
       - about.qmd
     right:
@@ -21,6 +25,3 @@ format:
     theme:
       - materia
     css: styles.css
-
-
-
