@@ -3,20 +3,23 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://www.poromics.org # you must change this appropriately for RSS feeds to work properly
   title: "poromics"
   navbar:
+    left: 
+      - href: index.qmd
+        text: Home
+      - blog.qmd
+      - about.qmd
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/poromics
+
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - materia
     css: styles.css
 
 
