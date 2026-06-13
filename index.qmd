@@ -22,12 +22,12 @@ The home for porous media analysis tools
             <a href="https://openpnm.org"><img src="https://openpnm.org/_images/openpnm_logo.jpg" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
         </div>
 
-        <div class="g-col-6">
-
+        <div class="g-col-6" style="display: flex; align-items: center; justify-content: center;">
+            <a href="https://kabs.poromics.org"><img src="https://kabs.poromics.org/logo.png" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
         </div>
 
-        <div class="g-col-6">
-
+        <div class="g-col-6" style="display: flex; align-items: center; justify-content: center;">
+            <a href="https://pnmlig.poromics.org"><img src="https://pnmlib.poromics.org/logo.png" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
         </div>
     </div>
 ```
