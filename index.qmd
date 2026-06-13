@@ -1,8 +1,36 @@
 ---
+format:
+  html:
+    include-in-header: []
 ---
 
 
 # Poromics
 
 The home for porous media analysis tools
+
+
+## Projects
+
+```{=html}
+    <div class="grid">
+        <div class="g-col-6" style="display: flex; align-items: center; justify-content: center;">
+            <a href="https://porespy.org"><img src="https://porespy.org/_images/porespy_logo.jpg" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
+        </div>
+
+        <div class="g-col-6" style="display: flex; align-items: center; justify-content: center;">
+            <a href="https://openpnm.org"><img src="https://openpnm.org/_images/openpnm_logo.jpg" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
+        </div>
+
+        <div class="g-col-6">
+
+        </div>
+
+        <div class="g-col-6">
+
+        </div>
+    </div>
+```
+
+## Members
 
