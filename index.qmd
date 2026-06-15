@@ -23,11 +23,11 @@ The home for porous media analysis tools
         </div>
 
         <div class="g-col-6" style="display: flex; align-items: center; justify-content: center;">
-            <a href="https://kabs.poromics.org"><img src="https://github.com/PMEAL/kabs/blob/main/logo.png" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
+            <a href="https://kabs.poromics.org"><img src="https://kabs.poromics.org/kabs_logo.png" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
         </div>
 
         <div class="g-col-6" style="display: flex; align-items: center; justify-content: center;">
-            <a href="https://pnmlib.poromics.org"><img src="https://github.com/PMEAL/pnmlib/blob/main/logo.png" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
+            <a href="https://pnmlib.poromics.org"><img src="https://pnmlib.poromics.org/pnmlib_logo.png" style="width: 100%; object-fit: contain; max-height: 250px;"></a>
         </div>
     </div>
 ```
